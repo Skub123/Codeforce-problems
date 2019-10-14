@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    long long int n;
+    long long int k;
     int check=1;
-    cin>>n;
-    while(n--){
+    cin>>k;
+    while(k--){
     	int temp;
     	cin>>temp;
     	if(temp)
